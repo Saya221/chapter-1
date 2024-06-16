@@ -12,7 +12,8 @@ The second
 
 Git:
 
-
+- The exercise relates to rebase command
+-  
 
 
 
