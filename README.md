@@ -8,4 +8,26 @@ Enviroments
 
 The second
 
-commit
+16/06/2024 - Meeting Note
+
+Git:
+
+
+
+
+
+
+
+Routes:
+
+
+
+
+
+
+Trello ticket:
+
+
+
+
+REST, Resources & Rails:
