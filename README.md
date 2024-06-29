@@ -13,3 +13,5 @@ Database
 Routes
 
 - config/routes.rb
+
+# Chapter 2
