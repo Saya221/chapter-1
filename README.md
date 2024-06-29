@@ -6,6 +6,10 @@ Enviroments
 - Developer
 - Production
 
-The second
+Database
 
-commit
+- database.yml
+
+Routes
+
+- config/routes.rb
